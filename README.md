@@ -6,7 +6,7 @@ Computer Science student
 
 A tech enthusiast with interest in fascinating and interesting projects on different languages & technologies.
 
-* 🌍  I'm based in Frankfurt, Germany
+* 🌍  I'm based in Bavaria, Germany
 * ✉️  You can contact me at [omangamoraaj@gmail.com](mailto:omangamoraaj@gmail.com)
 * 🧠  I'm learning C, C++, C#, Python, Java, JS, HTML, Kotlin
 * 🤝  I'm open to collaborating on any other interesting project
